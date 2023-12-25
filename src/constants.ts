@@ -1,0 +1,1 @@
+export const baseUrl = 'https://globaz-api.onrender.com';

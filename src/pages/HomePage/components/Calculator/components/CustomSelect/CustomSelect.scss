@@ -1,0 +1,20 @@
+@import '../../../../../../variables';
+
+.custom_select{
+    margin: 0 auto;
+        .item-focused{
+            background-color:$main_color;
+        }
+        .item-selected{
+            background-color: $main_color;
+        }
+        label{
+            color: $text-color;
+        }
+    
+}
+@media screen and (max-width: 660px) {
+    .custom_select{
+        width: 100%;
+    }
+}
