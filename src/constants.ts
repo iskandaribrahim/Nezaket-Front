@@ -1,1 +1,1 @@
-export const baseUrl = 'https://globaz-api.onrender.com';
+export const baseUrl = 'http://localhost';
